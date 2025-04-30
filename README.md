@@ -41,7 +41,7 @@ I’m a passionate computer engineering student focused on **front-end developme
 
  🌐 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/) • [Twitter](https://twitter.com/) • [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/nirazz.nirazz.9) • [Twitter](https://twitter.com/) • [Portfolio](https://your-portfolio-link.com)
 
 
 
