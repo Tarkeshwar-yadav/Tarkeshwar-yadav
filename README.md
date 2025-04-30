@@ -37,6 +37,20 @@ I’m a passionate computer engineering student focused on **front-end developme
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarkeshwaryadav&show_icons=true&theme=gruvbox)
 
+ 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tarkeshwaryadav&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tarkeshwaryadav&theme=gruvbox&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarkeshwaryadav&layout=compact&theme=gruvbox)
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwaryadav&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 
 
  🌐 Let's Connect
