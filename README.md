@@ -32,6 +32,8 @@ I’m a passionate computer engineering student focused on **front-end developme
 
 
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwaryadav&label=Profile%20views&color=0e75b6&style=flat)
+
 
  📊 GitHub Stats
 
@@ -44,12 +46,8 @@ I’m a passionate computer engineering student focused on **front-end developme
 ![GitHub Streak](https://streak-stats.demolab.com?user=tarkeshwaryadav&theme=gruvbox&hide_border=true)
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarkeshwaryadav&layout=compact&theme=gruvbox)
-
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwaryadav&label=Profile%20views&color=0e75b6&style=flat)
-
-
 
 
 
