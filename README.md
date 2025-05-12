@@ -11,7 +11,14 @@
 
 I’m a passionate computer engineering student focused on **front-end development** and **creative web design**. I combine technical and communication skills to solve real-world problems.
 
+ 🚀 Currently Learning
+- 🌱 Laravel (PHP Framework)
+- 🔧 MySQL, REST APIs
+- 📚 Building CRUD apps with Laravel backend and Bootstrap frontend
 
+  
+ 🤝 Open to Collaboration
+If you're working on any Laravel, PHP, or web development projects and want to collaborate — feel free to reach out!
 
  🛠 Skills & Tools
 
