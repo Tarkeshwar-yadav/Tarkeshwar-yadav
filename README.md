@@ -7,7 +7,7 @@
 
 💼 About Me
 
-I’m a computer engineer specializing in **front-end development** and **creative web design**, blending technical expertise with **strong communication skills** to deliver real-world solutions.
+"I’m a computer engineer skilled in front-end, backend, and creative web design—combining technical expertise with strong communication to build real-world solutions."
 
  🤝 Open to Collaboration
  
