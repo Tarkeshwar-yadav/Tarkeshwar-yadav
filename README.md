@@ -1,15 +1,12 @@
- 👋 Hi, I'm Tarkeshwar Yadav
+ 👋 Hi, I'm **Tarkeshwar Yadav**
 
-🎓 Bachelor of Computer Engineering  
+🎓 Bachelor of **Computer Engineering**  
 🏫 Purbanchal University, Nepal  
 📍 Biratnagar, Nepal  
 📧 tky983175@gmail.com | 📞 +977 9819983175  
 
-
-
- 💼 About Me
-
-I’m a passionate computer engineering student focused on **front-end development** and **creative web design**. I combine technical and communication skills to solve real-world problems.
+💼 About Me
+I’m a computer engineer specializing in **front-end development** and **creative web design**, blending technical expertise with **strong communication skills** to deliver real-world solutions.
 
  🤝 Open to Collaboration
 If you're working on any Laravel, PHP, or web development projects and want to collaborate — feel free to reach out!
@@ -30,4 +27,4 @@ If you're working on any Laravel, PHP, or web development projects and want to c
 
 
 
-> "Strive not to be a success, but rather to be of value." — Albert Einstein
+> **"Strive not to be a success, but rather to be of value." — Albert Einstein**
