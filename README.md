@@ -2,7 +2,13 @@
 
 🎓 Bachelor of Computer Engineering  
 🏫 Purbanchal University, Nepal  
-📍 Biratnagar, Nepal  
+📍 Biratnagar, Nepal 
+
+ ## 🔗 Connect With Me
+
+🌐 Portfolio: https://tarkeshwar.com.np
+
+📧 Email: tky983175@gmail.com
 
 💻 Frontend | Backend | Creative Web Design
 
@@ -15,5 +21,4 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwar-yadav&label=Profile%20views&color=0e75b6&style=flat)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tarkeshwar-yadav&theme=tokyonight)
 
