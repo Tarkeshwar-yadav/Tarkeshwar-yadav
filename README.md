@@ -23,10 +23,22 @@ If you're working on any Laravel, PHP, or web development projects and want to c
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwaryadav&label=Profile%20views&color=0e75b6&style=flat)
 
- 🌐 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/nirazz.nirazz.9) • [Twitter](https://twitter.com/) • [Portfolio](https://your-portfolio-link.com)
+ 
 
 
+# 👋 Hi, I'm Tarkeshwar Yadav
 
-> **"Strive not to be a success, but rather to be of value." — Albert Einstein**
+🎓 Bachelor of Computer Engineering  
+🏫 Purbanchal University, Nepal  
+📍 Biratnagar, Nepal  
+
+💻 Frontend | Backend | Creative Web Design
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarkeshwar-yadav&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarkeshwar-yadav&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tarkeshwar-yadav&theme=tokyonight)
+
