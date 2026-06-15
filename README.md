@@ -12,7 +12,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarkeshwar-yadav&layout=compact&theme=tokyonight)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwaryadav&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=tarkeshwar-yadav&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tarkeshwar-yadav&theme=tokyonight)
